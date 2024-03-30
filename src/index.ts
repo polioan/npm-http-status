@@ -63,3 +63,5 @@ export const status = {
 } as const satisfies Record<string, number>
 
 export const Status = status
+
+export const STATUS = status
